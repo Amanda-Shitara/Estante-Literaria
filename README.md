@@ -124,20 +124,20 @@ $ cd server
 $ npm install
 ```
 Em seguida, para iniciar as aplicações, digite o script `npm start` em ambos os terminais.
-![Terminal](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Terminal.PNG)
+![Terminal](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Terminal.PNG)
 
 Por fim, carregue `http://localhost:3000` em seu navegador para visualizar o site.
 
 ## Screenshots
-![Home](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_Home.PNG)
-![About](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_About.PNG)
-![BookSearch](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_BookSearch.PNG)
-![BookDetails](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_BookDetails.PNG)
-![Cart](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_Cart.PNG)
-![AuthLogin](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_AuthLogin.PNG)
-![AuthRegister](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_AuthRegister.PNG)
-![Profile](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_Profile.PNG)
-![404](https://github.com/Amanda-Shitara/Estante-Literaria/tree/main/assets/Screenshot_404.PNG)
+![Home](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_Home.PNG)
+![About](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_About.PNG)
+![BookSearch](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_BookSearch.PNG)
+![BookDetails](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_BookDetails.PNG)
+![Cart](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_Cart.PNG)
+![AuthLogin](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_AuthLogin.PNG)
+![AuthRegister](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_AuthRegister.PNG)
+![Profile](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_Profile.PNG)
+![404](https://github.com/Amanda-Shitara/Estante-Literaria/blob/main/assets/Screenshot_404.PNG)
 
 ## Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo `LICENSE` para mais detalhes.

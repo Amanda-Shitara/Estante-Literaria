@@ -66,9 +66,9 @@ function ShoppingCart() {
             <div className="sm:ml-4 sm:flex sm:w-full sm:justify-between">
               <div className="mt-5 sm:mt-0">
                 <h2 className="text-lg font-bold text-gray-900">{item[1]} ({item[4]})</h2>
-                <p className="mt-1 text-xs text-gray-700">Valor unitário: R${item[5]}</p>
-                <p className="mt-1 text-xs text-gray-700">Autor</p>
-                <p className="mt-1 text-xs text-gray-700">Editora</p>
+                <p className="mt-2 text-xs text-gray-700"><b>Valor unitário: </b>R${item[5]}</p>
+                <p className="mt-1 text-xs text-gray-700"><b>Autor: </b>{item[2]}</p>
+                <p className="mt-1 text-xs text-gray-700"><b>Editora: </b>{item[3]}</p>
               </div>
               <div className="mt-4 flex justify-between sm:space-y-6 sm:mt-0 sm:block sm:space-x-6">
                 <div className="flex flex-row items-center sm:justify-end">

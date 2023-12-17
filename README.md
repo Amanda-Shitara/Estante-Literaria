@@ -103,7 +103,7 @@ O projeto está dividido em **_duas_** seções:
 Para instalar este projeto localmente, basta clonar o repositório ou fazer o download do arquivo zip e descompactá-lo na sua máquina.
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/meu-projeto-incrivel.git
+git clone https://github.com/Amanda-Shitara/Estante-Literaria.git
 ```
 Feito isso, siga os seguintes passos:
 - Abra o projeto no editor de código de sua preferência (no caso, será utilizado o VS Code);
